@@ -1,8 +1,11 @@
 # Deep Learning for the Life Sciences
 
 ## Description
-해당 사이트는 Bharath Ramsundar 저자 "생명과학을 위한 딥러닝" 교재에 나와있는 코드를 필사했습니다. 교재에 있는 코드를 하나 하나 살펴보며 어떤 목적으로 실행한 것인지를 이해하였고, 라이브러리 버전이 달라 실행하지 못한 코드는 교제에서 제공하는 [github 사이트](https://github.com/deepchem/DeepLearningLifeSciences)를 통해 보완했습니다.
-코드는 3장부터 11장까지의 내용을 다룰 예정입니다.
+해당 사이트는 Bharath Ramsundar 저자 "생명과학을 위한 딥러닝" 교재에 나와있는 코드를 필사했습니다. 
+
+교재에 있는 코드를 하나 하나 살펴보며 어떤 목적으로 실행한 것인지를 이해하였고, 라이브러리 버전이 달라 실행하지 못한 코드는 교제에서 제공하는 [github 사이트](https://github.com/deepchem/DeepLearningLifeSciences)를 통해 보완했습니다.
+
+코드는 3장부터 11장까지의 내용을 다룰 예정이며, 구글 코랩 (Goggle Colab)으로 진행했습니다.
 
 ![캡처](http://acornpub.co.kr/tb/detail/book/ei/kd/1629741384DsxCj2eR.jpg)
 
